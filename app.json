@@ -37,7 +37,8 @@
       },
       "config": {
         "googleMobileAdsAppId": "ca-app-pub-7655917758249514~8212791386"
-      }
+      },
+      "googleServicesFile": "./google-services.json"
     },
     "web": {
       "favicon": "./assets/favicon.png"
